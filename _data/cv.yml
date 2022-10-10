@@ -5,6 +5,8 @@
       value: SRIDHAR REDDY EGURAM
     - name: Date of Birth
       value: 8th January 2002
+    - name: Gender
+      value: Male
     - name: Languages
       value: English, Telugu, Hindi
 
@@ -29,7 +31,7 @@
   type: time_table
   contents:
     - title: Intern in Knowledge Solutions 
-      institution: <a href="" > Knowledge Solutions </a>
+      institution: <a href="https://www.linkedin.com/company/knowledge-solutions-india/about/" > Knowledge Solutions </a>
       year: 2020 - 2021
       description:
         - Worked as an RDBMS administrator defining and implementing database schema.
@@ -40,7 +42,7 @@
       year: 2020 - now
       description:
         - Conducted multiple events such as blood camps, awareness programs, college wide fests etc.
-        - Head of the Project Expo body
+        - Head of the PROJECT EXPO body
 
     - title: Member of the Computer Sciences of India
       institution: CSI
