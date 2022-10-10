@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 `Hey!` <br>
-Let me tell you something about myself :
+My bio :
 <ul>
   <li>I'm a 21 y/o `CSE` undergrad student at GRIET, India</li>
   <li>I'm currently in my final year of pursuing a Bachelor of Technology in Computer Science and Engineering.</li>
