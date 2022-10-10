@@ -61,7 +61,7 @@
   contents:
     - title: Income tax prediction
       year: sep 2020
-      description:Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict income tax.The model which had better accuracy will be chosen for tax prediction.
+      description: Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict income tax.The model which had better accuracy will be chosen for tax prediction.
       
     - title: Crop yeild prediction
       year: june 2021- aug 2021
