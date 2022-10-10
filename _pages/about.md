@@ -11,7 +11,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>RahulCvr@outlook.com</p>
+    <p>sridhar.eguram@gmail.com</p>
     <p>Hyderabad</p>
     <p>India</p>
 
@@ -25,8 +25,8 @@ Let me tell you something about myself :
 <ul>
   <li>I'm a 21 y/o `CSE` undergrad student at GRIET, India</li>
   <li>I'm currently in my final year of pursuing a Bachelor of Technology in Computer Science and Engineering.</li>
-  <li> By day, you might find me studying machine learning, system design, and behavioural sciences</li>
-  <li> By night, I love exploring different fields of study, reading case studies, or reading a book </li>
+  <li> By day, you might find me studying machine learning, system design</li>
+  <li> By night, I love exploring different fields of study, reading case studies, or browsing internet </li>
   <li> I'm reaching out for the stars with my laptop and my trusted water bottle </li>
 </ul>
 
@@ -34,7 +34,7 @@ Let me tell you something about myself :
 
 <h3> my interests</h3>
 <ul>
-  <li>Drinking water, I love just drinking water</li>
+  <li>Playing and Watching Cricket.I love it</li>
   <li>Art</li>
   <li>Badminton, Basketball</li>
   <li>Sprinting</li>
