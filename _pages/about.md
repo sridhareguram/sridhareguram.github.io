@@ -8,7 +8,7 @@ nav_order: 2
 
 profile:
   align: right
-  image: profilepic.jpeg
+  image: profilepic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>sridhar.eguram@gmail.com</p>
@@ -23,11 +23,10 @@ social: true  # includes social icons at the bottom of the page
 `Hey!` <br>
 My bio :
 <ul>
-  <li>I'm a 21 y/o `CSE` undergrad student at GRIET, India</li>
+  <li>I'm a 21 y/o `CSE` undergraduate at GRIET, India</li>
   <li>I'm currently in my final year of pursuing a Bachelor of Technology in Computer Science and Engineering.</li>
   <li> By day, you might find me studying machine learning, system design</li>
   <li> By night, I love exploring different fields of study, reading case studies, or browsing internet </li>
-  <li> I'm reaching out for the stars with my laptop and my trusted water bottle </li>
 </ul>
 
 <br>
@@ -36,8 +35,7 @@ My bio :
 <ul>
   <li>Playing and Watching Cricket.I love it</li>
   <li>Art</li>
-  <li>Badminton, Basketball</li>
-  <li>Sprinting</li>
-  <li>Reading books</li>
-  <li>Playing the violin</li>
+  <li>Also love to play Badminton, Basketball</li>
+  <li>Fond of physical cardio</li>
+  <li>Playing the guitar</li>
 </ul>
