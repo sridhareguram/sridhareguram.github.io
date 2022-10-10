@@ -6,4 +6,4 @@ nav: false
 nav_order: 1
 ---
 <p>
-<h2> Myself Sridhar <br> Thanks for dopping by  </h2>
+<h2> Myself Sridhar <br> Thanks for visiting  </h2>
