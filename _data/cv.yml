@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Intern in Knowledge Solutions 
-      institution: <a href="http://www.ksindia.co.in/" >Knowledge Solutions</a>
+      institution: <a href="http://www.ksindia.co.in/" > Knowledge Solutions </a>
       year: 2020 - 2021
       description:
         - Worked as an RDBMS administrator defining and implementing database schema.
