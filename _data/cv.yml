@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Rahul Reddy Chappidi Venkata
+      value: SRIDHAR REDDY EGURAM
     - name: Date of Birth
-      value: 21st February 2002
+      value: 8tt January 2002
     - name: Languages
       value: English, Telugu, Hindi
 
@@ -18,7 +18,8 @@
         - Computer Science and Engineering
         - title: Electives
           contents:
-            - Data Science & Analytics
+            - Data Science 
+            - Data Analytics
             - Machine Learning
             - Artificial Intellegence
             - Cloud Computing
@@ -27,8 +28,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Startup Intern
-      institution: <a href="https://justsnack.in/" >JustSnack</a>
+    - title: Intern in Knowledge Solutions 
+      institution: <a href="http://www.ksindia.co.in/" >Knowledge Solutions</a>
       year: 2020 - 2021
       description:
         - Worked as an RDBMS administrator defining and implementing database schema.
@@ -39,7 +40,7 @@
       year: 2020 - now
       description:
         - Conducted multiple events such as blood camps, awareness programs, college wide fests etc.
-        - Head of the documentation body
+        - Head of the Project Expo body
 
     - title: Member of the Computer Sciences of India
       institution: CSI
@@ -48,28 +49,29 @@
         - part of multiple events and workshops.
 
     - title: Virtual Internship
-      institution: Goldman Sachs
+      institution: JP Morgan
       year: 2021
       description:
-        - Cracking leaked passwords from a database breach.
-        - Analysed findings and conclusions of controls currentlyused and provided p0tential uplifts to the existing protection mechanisms.
+        - Interface with a stock price data feed
+        - Use JPMORGAN Chase fraweworks and tools
+        - Display data visually for traders.
 
 - title: Projects
   type: time_table
   contents:
-    - title: AlgoTrade
-      year: 2020-now
-      description: A simple platform for you to use algorithmic bots to buy/sell orders in the stockmarket
+    - title: Income tax prediction
+      year: sep 2020
+      description:Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict income tax.The model which had better accuracy will be chosen for tax prediction.
       
-    - title: DiscordBot
-      year: 2020-now
-      description: Developed a discord bot that updates a list of assignments and posts it in our discord channel using python and discord API
+    - title: Crop yeild prediction
+      year: june 2021- aug 2021
+      description: Developed a model which helps to predict about when, where and at which time required to seed a crop that helps farmers to get better yeild. 
     
     - title: Smart Health Monitoring (SHM)
       year: nov 2021
       description: A web app for monitoring all your vitals in real time with fall detection and automatic gps tracking and SOS, implemented using Django and IoT. <br> My team was the runner ups in the inter-departmental hackathon.
 
-    - title: Encryption algorithm
+    - title: BlowFish Encryption algorithm
       year: 2021-2022
       description: An intuitive 64-bit Encryption algorithm implemented using binary inversion technique in Java
 
@@ -91,5 +93,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <b>Sports :</b> Badminton, Basketball, Cricket
-    - <b>Hobbies :</b> Gardening, Cooking, Reading books, Playing the violin
+    - <b>Sports :</b> Cricket, Badminton, Basketball.
+    - <b>Hobbies :</b> Gardening, Reading books,social media content creation, Playing the violin
