@@ -1,6 +1,6 @@
 ---
 layout: about
-title: SRIDHAR REDDY
+title: About
 permalink: /about/
 subtitle: Hope
 nav: true
@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 My bio :
 <ul>
   <li>I'm a 21 y/o `CSE` undergraduate at GRIET, India</li>
-  <li>I'm currently in my final year of pursuing a Bachelor of Technology in Computer Science and Engineering.</li>
-  <li> By day, you might find me studying machine learning, system design</li>
-  <li> By night, I love exploring different fields of study, reading case studies, or browsing internet </li>
+  <li>I'm currently in 7th semister, pursuing my undergraduation a Bachelor of Technology in Computer Science and Engineering.</li>
+  <li> By day, you might find me studying machine learning, software project management </li>
+  <li> By night, I love exploring different fields of study, reading various research article </li>
 </ul>
 
 <br>
