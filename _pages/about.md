@@ -8,7 +8,7 @@ nav_order: 2
 
 profile:
   align: right
-  image: assets/img/profilepic.png
+  image: profilepic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>sridhar.eguram@gmail.com</p>
