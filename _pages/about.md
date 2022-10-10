@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: SRIDHAR REDDY
 permalink: /about/
-subtitle: Limitless!
+subtitle: Hope
 nav: true
 nav_order: 2
 
