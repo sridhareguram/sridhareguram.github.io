@@ -4,7 +4,7 @@
     - name: Full Name
       value: SRIDHAR REDDY EGURAM
     - name: Date of Birth
-      value: 8tt January 2002
+      value: 8th January 2002
     - name: Languages
       value: English, Telugu, Hindi
 
@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Intern in Knowledge Solutions 
-      institution: <a href="http://www.ksindia.co.in/" > Knowledge Solutions </a>
+      institution: <a href="" > Knowledge Solutions </a>
       year: 2020 - 2021
       description:
         - Worked as an RDBMS administrator defining and implementing database schema.
@@ -83,15 +83,15 @@
   contents:
     - title: Data Science and Analytics
       items: 
-        - FinTech (Equity/commodities and crypto)
+        - Probability and statistics
         - Data Mining
     - title: Machine Learning
       items:
         - Natural Language Processing (NLP).
-        - MLOps (DevOps equivalent).
+        - Regression and Classification Algoritms
 
 - title: Other Interests
   type: list
   contents:
-    - <b>Sports :</b> Cricket, Badminton, Basketball.
-    - <b>Hobbies :</b> Gardening, Reading books,social media content creation, Playing the violin
+    - <b>Sports :</b> Cricket, Badminton, Basketball
+    - <b>Hobbies :</b> Video games,social media content, Playing the guitar
