@@ -48,9 +48,9 @@ nav_order: 1
 			<p class="pt-8 text-sm">I'm an Undergrad Student pursuing my Computer Science major in GRIET,Hyderabad</p>
 
 			<div class="pt-12 pb-8">
-				<button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
+				<span class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
 				  Thanks for visiting.Have a Quick Glance
-				</button> 
+				</span> 
 			</div>
 
 				
