@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /
-title: Hey
+title: 
 nav: false
 nav_order: 1
 ---
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
