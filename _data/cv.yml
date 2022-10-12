@@ -7,7 +7,7 @@
       value: 8th January 2002
     - name: Gender
       value: Male
-    - name: Languages
+    - name: Languages known
       value: English, Telugu, Hindi
 
 - title: Education
@@ -34,8 +34,8 @@
       institution: <a href="https://www.linkedin.com/company/knowledge-solutions-india/about/" > Knowledge Solutions </a>
       year: 2020 - 2021
       description:
-        - Worked as an RDBMS administrator defining and implementing database schema.
-        - AWS, SQL, Java
+        - Worked on a project called Income tax prediction using various models.
+        - Python, Machine Learning.
 
     - title: NGO core committee
       institution: NSS (National Service Scheme)
@@ -48,7 +48,8 @@
       institution: CSI
       year: 2019-now
       description:
-        - part of multiple events and workshops.
+        - part of multiple events.
+        - conducted workshops.
 
     - title: Virtual Internship
       institution: JP Morgan
