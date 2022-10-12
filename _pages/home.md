@@ -51,9 +51,9 @@ nav_order: 1
 			<p class="pt-8 text-sm">UNDERGRAD STUDENT </p>
 
 			<div class="pt-12 pb-8">
-				<button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
-				 CONTACT ME
-				</button> 
+				<label class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
+				 THANKS FOR VISITING. Have a Quick Glance
+				</label> 
 			</div>
 
 			
