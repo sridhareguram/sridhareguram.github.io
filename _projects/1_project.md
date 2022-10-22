@@ -20,4 +20,8 @@ category: work
     This exam will also help determine if you have any complications related to pneumonia such as abscesses or pleural effusions. 
     
     
+To visit the project and have a look ,click on below link
+
+
+<a href="https://github.com/sridhareguram/Cro">Crop Yield Project</a>
 ![image](https://user-images.githubusercontent.com/115442794/197337211-7178f707-aab9-4dfe-93ad-34643e79c671.png)
