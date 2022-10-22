@@ -7,16 +7,16 @@ importance: 2
 category: work
 ---
 
-<h1 style="font-size:20px;">Abstract</h1>
-    -> Based on the dataset which contains the information about each district crop statistics from the state Telangana. 
+<h1 style="font-size:40px;">Abstract</h1>
+<h2> Based on the dataset which contains the information about each district crop statistics from the state Telangana. </h2>
         
-    -> It contains the information like type of crop they sow, the season whether it's Kharif or Rabi. 
+<h2> It contains the information like type of crop they sow, the season whether it's Kharif or Rabi. </h2>
     
-    -> With the help of these factors, we find the accurate rate to seed the crop in right season.
+<h2> With the help of these factors, we find the accurate rate to seed the crop in right season. </h2>
     
-<p> As a result, farmers will be benefited with profits with better yeild. </p>
+<h2> As a result, farmers will be benefited with profits with better yeild. </h2>
 
-<p> To visit the project and have a look ,click on below link </p>
+<h2> To visit the project and have a look ,click on below link </h2>
 
 
 
