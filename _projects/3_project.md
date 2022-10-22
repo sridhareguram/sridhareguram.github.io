@@ -3,7 +3,6 @@ layout: page
 title: Income Tax Prediction
 description: a project that helps to find a better model out of four regression models to predict the rate of income levels
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
