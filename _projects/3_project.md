@@ -12,18 +12,8 @@ category: work
 <p> For this, we use different functions for their respective models. </p>
 <p> Ultimately, we find the best one among four models by finding the accuracy score of each model. </p>
 
-<p> To have a view on project documentation,download by clicking on below button
-<a href="/IncomeTax/PROJECT REPORT FINAL .pptx" download="project">Download the project documentation</a>
-
-<a href="/IncomeTax/PROJECT REPORT FINAL .pptx" download> Download </a>
+<p> To have a view on project documentation click on below link
  
-import pptx from "/IncomeTax/PROJECT REPORT FINAL .pptx";
-<a
-    href={/IncomeTax/PROJECT REPORT FINAL .pptx}
-    className='btn'
-    download
-    rel='noopener noreferrer'
-    target='_blank'
-  >
-    Download Project Documentation
-  </a>
+ 
+<a href="https://github.com/sridhareguram/sridhareguram.github.io/tree/main/IncomeTax" download="project">Download the project documentation</a>
+
