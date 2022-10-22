@@ -16,3 +16,14 @@ category: work
 <a href="/IncomeTax/PROJECT REPORT FINAL .pptx" download="project">Download the project documentation</a>
 
 <a href="/IncomeTax/PROJECT REPORT FINAL .pptx" download> Download </a>
+ 
+import pptx from "/IncomeTax/PROJECT REPORT FINAL .pptx";
+<a
+    href={pptx}
+    className='btn'
+    download
+    rel='noopener noreferrer'
+    target='_blank'
+  >
+    Download Project Documentation
+  </a>
