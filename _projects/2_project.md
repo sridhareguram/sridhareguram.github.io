@@ -2,7 +2,7 @@
 layout: page
 title: Crop Yield Prediction
 description: Depending on the weather and soil conditions,the suitable crop for particular season is predicted using CART models
-img: assets/img/cropyield.jpg
+img: assets/img/cropyield.jpeg
 importance: 2
 category: work
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/cropyield.jpg
+    img: /assets/img/cropyield.jpeg
     ---
 
 <div class="row">
