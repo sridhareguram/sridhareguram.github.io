@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Crop Yield Prediction
+description: Depending on the weather and soil conditions,the suitable crop for particular season is predicted using CART models
 img: assets/img/cropyield.jpg
 importance: 2
 category: work
