@@ -19,7 +19,7 @@ category: work
  
 import pptx from "/IncomeTax/PROJECT REPORT FINAL .pptx";
 <a
-    href={pptx}
+    href={/IncomeTax/PROJECT REPORT FINAL .pptx}
     className='btn'
     download
     rel='noopener noreferrer'
