@@ -15,4 +15,4 @@ category: work
 <p> To have a view on project documentation,download by clicking on below button
 <a href="IncomeTax/PROJECT REPORT FINAL .pptx" download="project">Download the project documentation</a>
 
-<a href="IncomeTax/PROJECT REPORT FINAL .ppt" download> Download </a>
+<a href="/IncomeTax/PROJECT REPORT FINAL .ppt" download> Download </a>
