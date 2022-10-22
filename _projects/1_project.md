@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-<p> Abstract <p>
+<p> Abstract </p>
     
     Pneumonia is an inflammatory condition of the lung affecting primarily the small air sacs known as alveoli. 
     Symptoms typically include some combination of productive or dry cough, chest pain, fever and difficulty breathing. The severity of the condition is          variable.
@@ -20,7 +20,7 @@ category: work
     This exam will also help determine if you have any complications related to pneumonia such as abscesses or pleural effusions. 
     
     
-To visit the project and have a look at the source code,click on below link
+<p> To visit the project and have a look at the source code,click on below link </p?
 
 
 <a href="https://github.com/sridhareguram/Pneumonia-Detection-Mini-Project">Pneumonia Disease Detection</a>
