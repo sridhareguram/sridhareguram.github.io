@@ -3,9 +3,10 @@ layout: page
 title: Medical ChatBot 
 description: Natural Language Processing
 img: assets/img/chatbotimage.jpeg
-importance: 4
-category: work
+importance: 3
+category: fun
 ---
+
 <h1 style="font-size:20px;">Abstract</h1>
 
 <p> We need to achieve the best model among MLR model,RFR model,PCA with MLR model,PCA with RLR model for the given dataset. </p>
