@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Medical ChatBot using Python
+description: Natural Language Processing (Deep Learning)
 img:
 importance: 3
 category: fun
