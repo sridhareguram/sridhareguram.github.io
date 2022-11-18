@@ -62,21 +62,38 @@
 - title: Projects
   type: time_table
   contents:
-    - title: Income tax prediction
+    - title: Insurance cost prediction
       year: sep 2020
-      description: Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict income tax.The model which had better accuracy will be chosen for tax prediction.
+      description: Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict insurance cost.The model which had better accuracy will be chosen for tax prediction.
       
     - title: Crop yeild prediction
       year: june 2021- aug 2021
       description: Developed a model which helps to predict about when, where and at which time required to seed a crop that helps farmers to get better yeild. 
     
+    - title: Medical ChatBot using Python
+      year: 2021-2022
+      description: Aim is to take symptoms as input from user and predict what type of disease does user have
+                   Sequential model is used to extract the symptoms from the text given by user 
+                   KNN algorithm is used for predicting the type of disease
+                   It also recommends the doctor in that field
+                   
+    - title: AI Enabled legal Assistance System
+      year: 2021-2022
+      description: Given a case, finding the related prior cases and their judgements is a time consuming job of a lawyer.
+                   The work here is to present a case study to retrieve judgements given in the past for a good factual description.
+                   LDA is used for topic modelling and for improved precision
+
+      
     - title: Smart Health Monitoring (SHM)
       year: nov 2021
       description: A web app for monitoring all your vitals in real time with fall detection and automatic gps tracking and SOS, implemented using Django and IoT. <br> My team was the runner ups in the inter-departmental hackathon.
 
-    - title: BlowFish Encryption algorithm
+    - title: Pneumonia Disease Detection using CNN
       year: 2021-2022
-      description: An intuitive 64-bit Encryption algorithm implemented using binary inversion technique in Java
+      description: The Conventional Neural network model in such a way that it detect the Pneumonia status of a patient without blood test,oximeter test and other.
+                   The model incorporates a chest x Ray as input and looks for signs of pneumonia, including such white spots inside the lungs (known as interstitium), that suggest an infection.
+                    We created the Conventional Neural Network model in such a way that it can detect a patient's Pneumonia condition without using blood tests, oximeter tests, or other methods
+
 
     - title: For more information about these project or other project not mentioned above, please visit the projects page on this website.
 
