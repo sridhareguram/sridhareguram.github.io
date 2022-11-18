@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Income Tax Prediction
+title: Insurance Cost Prediction
 description: a project that helps to find a better model out of four regression models to predict the rate of income levels
 img: assets/img/7.jpg
 importance: 3
