@@ -4,7 +4,7 @@ title: Pneumonia Detection
 description: It is achieved by using Convolutional Neural Network
 img: assets/img/pneumoniaproj.png
 importance: 1
-category: work
+category: work-1
 ---
 
 <h1 style="font-size:20px;">Abstract </h1>
