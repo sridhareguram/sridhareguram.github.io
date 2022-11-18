@@ -7,6 +7,7 @@ importance: 4
 category: work-2
 ---
 
-       <h>            Given a case, finding the related prior cases and their judgements is a time consuming job of a lawyer.     </h>
-        <h>           The work here is to present a case study to retrieve judgements given in the past for a good factual description.   </h>
-        <h>           LDA is used for topic modelling and for improved precision                  </h>
+       <p>    IOT Level-3 Project primarily based on Node MCU.   </p>
+       <p>	Used a Temperature Sensor, Blood Oxygen Sensor, Gyro sensor and a Heart rate sensor to build a remote device which can track patient </p>            <p>    health and inform the doctor of their status. </p>
+
+    
