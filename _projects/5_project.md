@@ -4,7 +4,7 @@ title: AI Based Legal Assistance System
 description: LDA Algorithm
 img: assets/img/legalassistanceai.jpeg
 importance: 3
-category: fun
+category: work-2
 ---
 
 <h1 style="font-size:20px;">Abstract</h1>
