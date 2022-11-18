@@ -2,7 +2,7 @@
 layout: page
 title: Smart Health Monitoring Device 
 description: Using IOT with Data Analytics
-img:assets/img/shm.png
+img: assets/img/shm.png
 importance: 4
 category: work-2
 ---
