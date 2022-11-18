@@ -4,7 +4,7 @@ title: Medical ChatBot
 description: Natural Language Processing
 img: assets/img/chatbotimage.jpeg
 importance: 3
-category: fun
+category: work-2
 ---
 
 <h1 style="font-size:20px;">Abstract</h1>
