@@ -4,7 +4,7 @@ title: Crop Yield Prediction
 description: Depending on the weather and soil conditions,the suitable crop for particular season is predicted using CART models
 img: assets/img/cropyield.jpeg
 importance: 2
-category: work
+category: work-1
 ---
 
 <h1 style="font-size:50px;">Abstract</h1>
