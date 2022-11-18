@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Smart Health Monitoring Device 
+description: Using IOT with Data Analytics
 img:
 importance: 4
 category: work-2
