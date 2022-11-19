@@ -3,7 +3,7 @@ layout: page
 title: Pneumonia Detection
 description: It is achieved by using Convolutional Neural Network
 img: assets/img/pneumoniaproj.png
-importance: 1
+importance: 2
 category: work-1
 ---
 
