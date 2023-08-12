@@ -24,8 +24,8 @@ social: true  # includes social icons at the bottom of the page
 My bio :
 <ul>
   <li>I'm a 21 y/o `CSE` undergraduate at GRIET, India</li>
-  <li>I'm currently in 7th semister, pursuing my undergraduation a Bachelor of Technology in Computer Science and Engineering.</li>
-  <li> By day, you might find me studying machine learning, software project management </li>
+  <li>I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering.</li>
+  <li> By day, you might find me studying new courses on field like Applied Algo, Machine learning, Software project management </li>
   <li> By night, I love exploring different fields of study, reading various research article </li>
 </ul>
 
