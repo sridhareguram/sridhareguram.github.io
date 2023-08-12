@@ -25,7 +25,7 @@ My bio :
 <ul>
   <li>I'm a 21 y/o `CSE` undergraduate at GRIET, India</li>
   <li>Did my internship at Tata Consultancy Service</li>
-  <li>Currently pursuing my Masters in Computer Science at Indiana University Bloomington/li>
+  <li>Currently pursuing my Masters in Computer Science at Indiana University Bloomington</li>
   <li>I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering.</li>
   <li> By day, you might find me studying new courses on field like Applied Algo, Machine learning, Software project management </li>
   <li> By night, I love exploring different fields of study, reading various research article </li>
