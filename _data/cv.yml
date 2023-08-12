@@ -13,9 +13,19 @@
 - title: Education
   type: time_table
   contents:
+    - title: Masters
+      institution: Indiana University Bloomington
+      expected graduation year: 2025
+      description:
+        - Computer Science
+        - title: Courses
+          contents(as of now):
+             - Applied Algorithms
+             - Applied ML
+             - Data Mining
     - title: B.Tech
       institution: Gokaraju Rangaraju Institute of Engineering and Technology
-      year: 2023
+      graduation year: 2023
       description:
         - Computer Science and Engineering
         - title: Electives
