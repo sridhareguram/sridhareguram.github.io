@@ -20,21 +20,26 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey!
+# Hey there!
 
-My bio:
+## My Bio
 
-- I'm a 22 y/o 'CS' Masters Student at Indiana University Bloomington
-- Did my internship at Tata Consultancy Service
-- Currently pursuing my Masters in Computer Science at Indiana University Bloomington
-- I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering.
-- By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts.
-- By night, I love exploring different fields of study, reading various research articles
+👨‍💻 I'm a 22-year-old 'CS' Masters Student at Indiana University Bloomington.
 
-### My interests
+💼 Completed my internship at Tata Consultancy Service.
 
-- Playing and Watching Cricket. I love it
-- Art
-- Also love to play Badminton, Basketball
-- Fond of physical cardio
-- Playing the guitar
+📚 Currently pursuing my Masters in Computer Science at Indiana University Bloomington.
+
+🎓 Completed my undergraduation in Bachelors of Technology in Computer Science and Engineering.
+
+🌞 By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts.
+
+🌙 By night, I love exploring different fields of study, reading various research articles.
+
+## My Interests
+
+- 🏏 Playing and Watching Cricket. I love it.
+- 🎨 Art.
+- 🏸 Also love to play Badminton, Basketball.
+- 🏃‍♂️ Fond of physical cardio.
+- 🎸 Playing the guitar.
