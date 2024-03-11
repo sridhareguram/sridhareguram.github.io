@@ -28,7 +28,7 @@ My bio:
 - Did my internship at Tata Consultancy Service
 - Currently pursuing my Masters in Computer Science at Indiana University Bloomington
 - I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering.
-- By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts, System Protocols and Security
+- By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts.
 - By night, I love exploring different fields of study, reading various research articles
 
 ### My interests
