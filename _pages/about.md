@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about/
 subtitle: Hope
-nav: true
+nav: true 
 nav_order: 2
 
 profile:
