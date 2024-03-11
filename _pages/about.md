@@ -20,26 +20,72 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# Hey there!
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
 
-## My Bio
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
 
-👨‍💻 I'm a 22-year-old 'CS' Masters Student at Indiana University Bloomington.
+  h1, h2 {
+    color: #0066cc;
+  }
 
-💼 Completed my internship at Tata Consultancy Service.
+  .bio {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
 
-📚 Currently pursuing my Masters in Computer Science at Indiana University Bloomington.
+  .interests {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
 
-🎓 Completed my undergraduation in Bachelors of Technology in Computer Science and Engineering.
+  ul {
+    list-style: none;
+    padding: 0;
+  }
 
-🌞 By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts.
+  li {
+    margin-bottom: 10px;
+  }
+</style>
 
-🌙 By night, I love exploring different fields of study, reading various research articles.
+<div class="container">
+  <div class="bio">
+    <h1>Hey there!</h1>
+    <h2>My Bio</h2>
+    <ul>
+      <li>👨‍💻 I'm a 22-year-old 'CS' Masters Student at Indiana University Bloomington.</li>
+      <li>💼 Completed my internship at Tata Consultancy Service.</li>
+      <li>📚 Currently pursuing my Masters in Computer Science at Indiana University Bloomington.</li>
+      <li>🎓 Completed my undergraduation in Bachelors of Technology in Computer Science and Engineering.</li>
+      <li>🌞 By day, you might find me studying new courses on fields like Software Engineering, Advanced Database Concepts.</li>
+      <li>🌙 By night, I love exploring different fields of study, reading various research articles.</li>
+    </ul>
+  </div>
 
-## My Interests
-
-- 🏏 Playing and Watching Cricket. I love it.
-- 🎨 Art.
-- 🏸 Also love to play Badminton, Basketball.
-- 🏃‍♂️ Fond of physical cardio.
-- 🎸 Playing the guitar.
+  <div class="interests">
+    <h2>My Interests</h2>
+    <ul>
+      <li>🏏 Playing and Watching Cricket. I love it.</li>
+      <li>🎨 Art.</li>
+      <li>🏸 Also love to play Badminton, Basketball.</li>
+      <li>🏃‍♂️ Fond of physical cardio.</li>
+      <li>🎸 Playing the guitar.</li>
+    </ul>
+  </div>
+</div>
