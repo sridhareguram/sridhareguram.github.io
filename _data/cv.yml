@@ -17,17 +17,21 @@
       institution: Indiana University Bloomington
       expected graduation year: 2025
       description:
-        - Computer Science
+        - Computer Science:
         - title: Courses
           contents(as of now):
              - Applied Algorithms
              - Applied ML
-             - Data Mining
+             - Big Data Applications
+             - Advanced Database Concepts
+             - Software Engineering
+             - System Protocols and Security
+        - grade: - 3.6
     - title: B.Tech
       institution: Gokaraju Rangaraju Institute of Engineering and Technology
       graduation year: 2023
       description:
-        - Computer Science and Engineering
+        - Computer Science and Engineering:
         - title: Electives
           contents:
             - Data Science 
@@ -35,6 +39,7 @@
             - Machine Learning
             - Artificial Intellegence
             - Cloud Computing
+      grade: - 9.1
             
 
 - title: Experience
@@ -46,6 +51,21 @@
       description:
         - Worked on a project called Income tax prediction using various models.
         - Python, Machine Learning.
+
+   - title: Software engineer intern
+      institution: Tata Consultancy Services (TCS)
+      year: 2023
+      description:
+        -	Developed and executed a data visualization project using Microsoft Power BI, showcasing employee and organizational data; increased data accessibility by 50% and empowered senior SE employees with actionable insights.
+        - Mentor trained us on how to tackle the bugs and learned on java testing frameworks.
+   
+    - title: Virtual Internship
+      institution: JP Morgan
+      year: 2021
+      description:
+        - Interface with a stock price data feed
+        - Use JPMORGAN Chase fraweworks and tools
+        - Display data visually for traders.
 
     - title: NGO core committee
       institution: NSS (National Service Scheme)
@@ -62,21 +82,22 @@
         - part of multiple events.
         - conducted workshops.
 
-    - title: Virtual Internship
-      institution: JP Morgan
-      year: 2021
-      description:
-        - Interface with a stock price data feed
-        - Use JPMORGAN Chase fraweworks and tools
-        - Display data visually for traders.
 
 - title: Projects
   type: time_table
   contents:
+
     - title: Insurance cost prediction
       year: sep 2020
       description: Four of the ML algorithms like Decision Tree, Random Forest, Multiple Regression, XGBoost are used to build 4 models to predict insurance cost.The model which had better accuracy will be chosen for tax prediction.
       
+    - title: Detection of malicious URL using Ensemble Learning 
+      year: September 2023
+      description: The project is primarily focused on identifying pneumonia without the need for additional tests by using a Chest X-Ray as an input. 
+                  - Greyscale Normalization is one of the algorithms used
+                  - to scale up the data, as is Data. The Chex NET algorithm is utilized for training the CNN model, and the back
+                  - propagation approach is used for fitting the model over 12 epochs.
+
     - title: Crop yeild prediction
       year: june 2021- aug 2021
       description: Developed a model which helps to predict about when, where and at which time required to seed a crop that helps farmers to get better yeild. 
