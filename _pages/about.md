@@ -12,8 +12,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>sridhar.eguram@gmail.com</p>
-    <p>Hyderabad</p>
-    <p>India</p>
+    <p>Bloomington, Indiana</p>
+    <p>USA</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
