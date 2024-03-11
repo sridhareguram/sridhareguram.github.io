@@ -2,12 +2,11 @@
 layout: page
 title: Detection of malicious URL 
 description: Using Ensemble Learning
-img: assets/img/shm.png
+img: assets/img/prr.jpeg
 importance: 4
 category: work-2
 ---
-
-       <p>    IOT Level-3 Project primarily based on Node MCU.   </p>
-       <p>	Used a Temperature Sensor, Blood Oxygen Sensor, Gyro sensor and a Heart rate sensor to build a remote device which can track patient </p>            <p>    health and inform the doctor of their status. </p>
+        <p> Worked on Ensemble learning methodologies like AdaBoost, Bagging, Random Forest where it can detect webisites which are malicious or benign. </p> 
+        <p> Also implemented Voting classifier which efficiently differentiates malicious websites and helps in cyber security activities </p> 
 
 
