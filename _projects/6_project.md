@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Smart Health Monitoring Device 
-description: Using IOT with Data Analytics
+title: Detection of malicious URL 
+description: Using Ensemble Learning
 img: assets/img/shm.png
 importance: 4
 category: work-2
