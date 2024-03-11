@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Detection of malicious URL 
-description: Using Ensemble Learning
+description: Worked on Ensemble learning methodologies like AdaBoost, Bagging, Random Forest where it can detect webisites which are malicious or benign
 img: assets/img/prr.jpeg
 importance: 4
 category: work-2
