@@ -11,33 +11,30 @@ profile:
   image: profilepic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p> sridhar.eguram@gmail.com </p>
-    <p> Bloomington, Indiana </p>
-    <p> USA </p>
+    sridhar.eguram@gmail.com
+    Bloomington, Indiana
+    USA
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-`Hey!` <br>
-My bio :
-<ul>
-  <li> I'm a 22 y/o 'CS' Masters Student at Indiana University Bloomington </li>
-  <li> Did my internship at Tata Consultancy Service </li>
-  <li> Currently pursuing my Masters in Computer Science at Indiana University Bloomington </li>
-  <li> I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering. </li>
-  <li> By day, you might find me studying new courses on field like Applied Algo, Machine learning, Software project management </li>
-  <li> By night, I love exploring different fields of study, reading various research article </li>
-</ul>
+Hey!
 
-<br>
+My bio:
 
-<h3> my interests</h3>
-<ul>
-  <li> Playing and Watching Cricket.I love it </li>
-  <li> Art </li>
-  <li> Also love to play Badminton, Basketball </li>
-  <li> Fond of physical cardio </li>
-  <li> Playing the guitar </li>
-</ul> 
+- I'm a 22 y/o 'CS' Masters Student at Indiana University Bloomington
+- Did my internship at Tata Consultancy Service
+- Currently pursuing my Masters in Computer Science at Indiana University Bloomington
+- I pursued my undergraduation in Bachelors of Technology in Computer Science and Engineering.
+- By day, you might find me studying new courses on fields like Applied Algo, Machine learning, Software project management
+- By night, I love exploring different fields of study, reading various research articles
+
+### My interests
+
+- Playing and Watching Cricket. I love it
+- Art
+- Also love to play Badminton, Basketball
+- Fond of physical cardio
+- Playing the guitar
