@@ -17,7 +17,7 @@ URLs are becoming ineffective.
 use of machine learning to improve the detection of malicious
 URLS and web content.
 
--Our solution effectively identifies and
+- Our solution effectively identifies and
 flags both new and existing digital risks using ensemble learning,
 ensuring robust web security without reliance on databases. This
 simplified approach represents a significant advancement in the
